@@ -35,14 +35,10 @@ public class Day6
         for (var day = 0; day < 256 ; day++)
         {
             var newFish = fishCount[0];
-            fishCount[0] = fishCount[1];
-            fishCount[1] = fishCount[2];
-            fishCount[2] = fishCount[3];
-            fishCount[3] = fishCount[4];
-            fishCount[4] = fishCount[5];
-            fishCount[5] = fishCount[6];
-            fishCount[6] = fishCount[7] + newFish;
-            fishCount[7] = fishCount[8];
+            var newFishCount = new long[fishCount.Length];
+            Array.Copy(fishCount, 1, newFishCount, 0, fishCount.Length - 1);
+            fishCount = newFishCount;
+            fishCount[6] += newFish;
             fishCount[8] = newFish;
         }
 
