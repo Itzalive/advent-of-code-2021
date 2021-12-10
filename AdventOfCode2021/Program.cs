@@ -24,5 +24,8 @@
 //Day8.Part1(Day8.Input);
 //Day8.Part2(Day8.Input);
 
-Day9.Part1(Day9.Input);
-Day9.Part2(Day9.Input);
+//Day9.Part1(Day9.Input);
+//Day9.Part2(Day9.Input);
+
+Day10.Part1(Day10.Input);
+Day10.Part2(Day10.Input);
