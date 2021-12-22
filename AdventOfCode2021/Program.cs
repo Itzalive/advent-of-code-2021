@@ -27,5 +27,33 @@
 //Day9.Part1(Day9.Input);
 //Day9.Part2(Day9.Input);
 
-Day10.Part1(Day10.Input);
-Day10.Part2(Day10.Input);
+//Day10.Part1(Day10.Input);
+//Day10.Part2(Day10.Input);
+
+//Day11.Part1(Day11.Input);
+//Day11.Part2(Day11.TestInput);
+
+//Day12.Part1(Day12.TestInput1);
+//Day12.Part2(Day12.TestInput1);
+
+//Day13.Part1(Day13.Input);
+
+//Day14.Part1(Day14.Input);
+//Day14.Part2(Day14.Input);
+
+//Day16.Part1(Day16.Input);
+//Day16.Part2(Day16.Input);
+
+//Day17.Part1(Day17.Input);
+//Day17.Part2(Day17.Input);
+
+//Day18.Part1(Day18.Input);
+//Day18.Part2(Day18.Input);
+
+//Day20.Part1(Day20.Input);
+//Day20.Part2(Day20.Input);
+
+//Day21.Part1(10, 3);
+//Day21.Part2(4, 8);
+
+Day22.Part1(Day22.Input);
