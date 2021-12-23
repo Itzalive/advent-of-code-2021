@@ -53,6 +53,8 @@
 //Day18.Part1(Day18.Input);
 //Day18.Part2(Day18.Input);
 
+Day19.Part1(Day19.Input);
+
 //Day20.Part1(Day20.Input);
 //Day20.Part2(Day20.Input);
 
